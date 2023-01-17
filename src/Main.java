@@ -14,5 +14,7 @@ public class Main {
         hourOfTheBull.setYear(1971);
         System.out.println(hourOfTheBull.getTitle() + " " + hourOfTheBull.getYear() + " " + hourOfTheBull.getAuthor().getName() + " " + hourOfTheBull.getAuthor().getSurname());
 
+        System.out.println(ivanEfremov);
+        System.out.println(victorPelevin);
     }
 }
